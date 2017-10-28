@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars Roman Numerals Decoder", "CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder.csproj", "{09887D16-0A39-4E28-AB15-0FB5D3D19BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09887D16-0A39-4E28-AB15-0FB5D3D19BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09887D16-0A39-4E28-AB15-0FB5D3D19BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09887D16-0A39-4E28-AB15-0FB5D3D19BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09887D16-0A39-4E28-AB15-0FB5D3D19BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910FAF1F-D848-4C61-A64B-51BB15B992A6}
+	EndGlobalSection
+EndGlobal

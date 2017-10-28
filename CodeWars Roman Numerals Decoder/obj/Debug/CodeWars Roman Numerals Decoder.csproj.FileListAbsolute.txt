@@ -1,0 +1,7 @@
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\bin\Debug\CodeWars Roman Numerals Decoder.exe.config
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\bin\Debug\CodeWars Roman Numerals Decoder.exe
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\bin\Debug\CodeWars Roman Numerals Decoder.pdb
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\obj\Debug\CodeWars Roman Numerals Decoder.csprojResolveAssemblyReference.cache
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\obj\Debug\CodeWars Roman Numerals Decoder.csproj.CoreCompileInputs.cache
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\obj\Debug\CodeWars Roman Numerals Decoder.exe
+c:\users\andrew\source\repos\CodeWars Roman Numerals Decoder\CodeWars Roman Numerals Decoder\obj\Debug\CodeWars Roman Numerals Decoder.pdb
